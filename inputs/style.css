@@ -1,0 +1,10 @@
+input:in-range{
+    background-color: greenyellow;
+    color: black;
+}
+input:out-of-range{
+
+    background-color: crimson;
+    color: black;
+
+}
