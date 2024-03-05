@@ -1,0 +1,20 @@
+.container{
+  margin-right: auto; 
+  margin-left: auto; 
+  margin-top: 100px;
+  background-color: blueviolet;
+  width: 400px;
+  height: 400px;
+  outline: red dotted 20px;
+  
+}
+.cosa:hover{
+ outline: green dotted 20px;
+ margin-right: auto; 
+ margin-left: auto; 
+ margin-top: 100px;
+ background-color: blueviolet;
+ width: 400px;
+ height: 400px;
+
+}
