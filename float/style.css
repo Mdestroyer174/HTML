@@ -1,0 +1,14 @@
+.box1{
+
+    width: 50%;
+    float: left;
+    font-size: 1.5rem;
+    
+}
+.box2{
+
+float: right;
+width: 50%;
+height: auto;
+
+}

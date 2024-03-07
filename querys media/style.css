@@ -1,0 +1,118 @@
+@media (min-width:320px){
+  .box{
+      margin: 10px;
+  }
+  .nara{
+      background-color: orange;
+      height: 90px;
+      width: 100%;
+      text-align: center;
+  }
+  .ama{
+      background-color: greenyellow;
+      height: 300px;
+      width: 200px;
+      text-align: center;
+      clear: both;
+      width: 100%;
+  }
+  .blu{
+      background-color:cornflowerblue;
+      height: 200px;
+      width: 100%;
+      text-align: center;
+  }
+  .gre{
+      background-color: gray;
+      height: 100px;
+      width: 100%;
+      text-align: center;
+      float: left;
+      
+  }  
+  .feo{
+    display: none;
+  }   
+}
+@media (min-width: 768px){
+  .box{
+      margin: 10px;
+  }
+  .nara{
+      background-color: orange;
+      height: 100px;
+      width: 200px;
+      text-align: center;
+      float:left;
+      width: 100%;
+  }
+  .ama{
+      background-color: greenyellow;
+      height: 300px;
+      width: 200px;
+      text-align: center;
+      clear: both;
+      width: 100%;
+  }
+  .blu{
+      background-color:cornflowerblue;
+      height: 100px;
+      width: 200px;
+      text-align: center;
+      width: 100%;
+  }
+  .gre{
+      background-color: gray;
+      height: 100px;
+      width: 47%;
+      text-align: center;
+      float: left;
+      flex-wrap: wrap;
+  }  
+  .feo{
+    display: initial;
+  }   
+}
+@media (min-width:1024px){
+  .box{
+    margin: 10px;
+}
+.nara{
+    background-color: orange;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    float:left;
+    width: 48%;
+    flex-wrap: wrap;
+}
+.ama{
+    background-color: greenyellow;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    clear: both;
+    width: 100%;
+}
+.blu{
+    background-color:cornflowerblue;
+    height: 200px;
+    text-align: center;
+    width: 31%;
+    float: left;
+    flex-wrap: wrap;
+}
+.gre{
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    float: left;
+    width: 23%;
+    flex-wrap: wrap;
+}
+.feo{
+  display: initial;
+} 
+    
+}

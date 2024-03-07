@@ -1,3 +1,9 @@
+body {
+  background-image: url('1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 .container{
     margin-right: auto;
     margin-left: auto;
